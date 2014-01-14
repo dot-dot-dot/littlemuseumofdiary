@@ -6,4 +6,4 @@ The exhibit is a tribute to the soul of the L’Archivio and is a wonderful melt
 
 ![img](http://dotdotdot.it/en/wp-content/uploads/sites/2/2013/10/FMD01.jpg)
 
-**More info: ** [http://dotdotdot.it/en/portfolio/little-museum-of-diary/](http://dotdotdot.it/en/portfolio/little-museum-of-diary/)
+**More info:** [http://dotdotdot.it/en/portfolio/little-museum-of-diary/](http://dotdotdot.it/en/portfolio/little-museum-of-diary/)
