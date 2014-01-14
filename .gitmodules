@@ -1,0 +1,3 @@
+[submodule "omxplayer"]
+	path = omxplayer
+	url = git@github.com:vcuculo/omxplayer.git
